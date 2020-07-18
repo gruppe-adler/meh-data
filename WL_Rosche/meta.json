@@ -1,0 +1,38 @@
+{
+    "author": "UnitedOperations.net Team",
+    "displayName": "Rosche, Germany (2.0)",
+    "elevationOffset": 30.0,
+    "gridOffsetX": -5000.0,
+    "gridOffsetY": 80260.0,
+    "grids": [
+        {
+            "format": "XY",
+            "formatX": "000",
+            "formatY": "000",
+            "stepX": 100,
+            "stepY": -100,
+            "zoomMax": 0.05000000074505806
+        },
+        {
+            "format": "XY",
+            "formatX": "00",
+            "formatY": "00",
+            "stepX": 1000,
+            "stepY": -1000,
+            "zoomMax": 0.5
+        },
+        {
+            "format": "XY",
+            "formatX": "0",
+            "formatY": "0",
+            "stepX": 10000,
+            "stepY": -10000,
+            "zoomMax": 1.0000000150474662e+30
+        }
+    ],
+    "latitude": -52.98512649536133,
+    "longitude": 10.762755393981934,
+    "version": 0.1,
+    "worldName": "WL_Rosche",
+    "worldSize": 15360
+}
