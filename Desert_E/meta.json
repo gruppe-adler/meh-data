@@ -1,0 +1,38 @@
+{
+    "author": "Bohemia Interactive",
+    "displayName": "Desert",
+    "elevationOffset": 800.0,
+    "gridOffsetX": 0.0,
+    "gridOffsetY": 2048.0,
+    "grids": [
+        {
+            "format": "XY",
+            "formatX": "000",
+            "formatY": "000",
+            "stepX": 100,
+            "stepY": -100,
+            "zoomMax": 0.15000000596046448
+        },
+        {
+            "format": "XY",
+            "formatX": "00",
+            "formatY": "00",
+            "stepX": 1000,
+            "stepY": -1000,
+            "zoomMax": 0.8500000238418579
+        },
+        {
+            "format": "XY",
+            "formatX": "0",
+            "formatY": "0",
+            "stepX": 10000,
+            "stepY": -10000,
+            "zoomMax": 1.0000000150474662e+30
+        }
+    ],
+    "latitude": -35.0,
+    "longitude": 65.80000305175781,
+    "version": 0.1,
+    "worldName": "Desert_E",
+    "worldSize": 2048
+}
