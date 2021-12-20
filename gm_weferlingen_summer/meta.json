@@ -1,0 +1,44 @@
+{
+    "author": "Global Mobilization",
+    "colorOutside": [
+        0.22745099663734436,
+        0.274509996175766,
+        0.38431400060653687,
+        1.0
+    ],
+    "displayName": "Weferlingen",
+    "elevationOffset": 0.0,
+    "gridOffsetX": 0.0,
+    "gridOffsetY": 0.0,
+    "grids": [
+        {
+            "format": "XY",
+            "formatX": "000",
+            "formatY": "000",
+            "stepX": 100,
+            "stepY": -100,
+            "zoomMax": 0.05000000074505806
+        },
+        {
+            "format": "XY",
+            "formatX": "00",
+            "formatY": "00",
+            "stepX": 1000,
+            "stepY": -1000,
+            "zoomMax": 0.5
+        },
+        {
+            "format": "XY",
+            "formatX": "0",
+            "formatY": "0",
+            "stepX": 10000,
+            "stepY": -10000,
+            "zoomMax": 1.0000000150474662e+30
+        }
+    ],
+    "latitude": -52.235923767089844,
+    "longitude": 10.867127418518066,
+    "version": "v0.6.0",
+    "worldName": "gm_weferlingen_summer",
+    "worldSize": 20480
+}
