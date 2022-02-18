@@ -32,7 +32,7 @@
     ],
     "latitude": -48.9640007019043,
     "longitude": 17.351999282836914,
-    "version": 0.1,
-    "worldName": "ProvingGrounds_PMC",
+    "version": "v0.6.0",
+    "worldName": "provinggrounds_pmc",
     "worldSize": 2048
 }
