@@ -1,0 +1,44 @@
+{
+    "author": "SMURKS",
+    "colorOutside": [
+        1024.0,
+        1024.0,
+        1024.0,
+        1.0
+    ],
+    "displayName": "Fjäderholmarna, Sweden",
+    "elevationOffset": 0.0,
+    "gridOffsetX": 0.0,
+    "gridOffsetY": 5120.0,
+    "grids": [
+        {
+            "format": "XY",
+            "formatX": "000",
+            "formatY": "000",
+            "stepX": 100,
+            "stepY": -100,
+            "zoomMax": 0.20000000298023224
+        },
+        {
+            "format": "XY",
+            "formatX": "00",
+            "formatY": "00",
+            "stepX": 1000,
+            "stepY": -1000,
+            "zoomMax": 0.949999988079071
+        },
+        {
+            "format": "XY",
+            "formatX": "0",
+            "formatY": "0",
+            "stepX": 10000,
+            "stepY": -10000,
+            "zoomMax": 1.0000000150474662e+30
+        }
+    ],
+    "latitude": -36.71200180053711,
+    "longitude": 68.87300109863281,
+    "version": "v0.6.1",
+    "worldName": "fjaderholmarna",
+    "worldSize": 1024
+}
