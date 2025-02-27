@@ -1,5 +1,11 @@
 {
     "author": "Bohemia Interactive",
+    "colorOutside": [
+        0.2941179871559143,
+        0.33333298563957214,
+        0.37254899740219116,
+        1.0
+    ],
     "displayName": "Stratis",
     "elevationOffset": 0.0,
     "gridOffsetX": 0.0,
@@ -32,7 +38,7 @@
     ],
     "latitude": -35.09700012207031,
     "longitude": 16.48200035095215,
-    "version": 0.1,
-    "worldName": "Stratis",
+    "version": "1.0.0-beta.4",
+    "worldName": "stratis",
     "worldSize": 8192
 }
